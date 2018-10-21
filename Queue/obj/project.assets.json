@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\ozkaya\\source\\repos\\Queue\\Queue\\Queue.csproj",
+      "projectUniqueName": "D:\\github\\Queue\\Queue\\Queue.csproj",
       "projectName": "Queue",
-      "projectPath": "c:\\users\\ozkaya\\source\\repos\\Queue\\Queue\\Queue.csproj",
+      "projectPath": "D:\\github\\Queue\\Queue\\Queue.csproj",
       "packagesPath": "C:\\Users\\ozkaya\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\ozkaya\\source\\repos\\Queue\\Queue\\obj\\",
+      "outputPath": "D:\\github\\Queue\\Queue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

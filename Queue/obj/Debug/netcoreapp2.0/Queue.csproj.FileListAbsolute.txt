@@ -9,3 +9,14 @@ c:\users\ozkaya\source\repos\Queue\Queue\obj\Debug\netcoreapp2.0\Queue.AssemblyI
 c:\users\ozkaya\source\repos\Queue\Queue\obj\Debug\netcoreapp2.0\Queue.AssemblyInfo.cs
 c:\users\ozkaya\source\repos\Queue\Queue\obj\Debug\netcoreapp2.0\Queue.dll
 c:\users\ozkaya\source\repos\Queue\Queue\obj\Debug\netcoreapp2.0\Queue.pdb
+D:\github\Queue\Queue\bin\Debug\netcoreapp2.0\Queue.deps.json
+D:\github\Queue\Queue\bin\Debug\netcoreapp2.0\Queue.runtimeconfig.json
+D:\github\Queue\Queue\bin\Debug\netcoreapp2.0\Queue.runtimeconfig.dev.json
+D:\github\Queue\Queue\bin\Debug\netcoreapp2.0\Queue.dll
+D:\github\Queue\Queue\bin\Debug\netcoreapp2.0\Queue.pdb
+D:\github\Queue\Queue\obj\Debug\netcoreapp2.0\Queue.csprojResolveAssemblyReference.cache
+D:\github\Queue\Queue\obj\Debug\netcoreapp2.0\Queue.csproj.CoreCompileInputs.cache
+D:\github\Queue\Queue\obj\Debug\netcoreapp2.0\Queue.AssemblyInfoInputs.cache
+D:\github\Queue\Queue\obj\Debug\netcoreapp2.0\Queue.AssemblyInfo.cs
+D:\github\Queue\Queue\obj\Debug\netcoreapp2.0\Queue.dll
+D:\github\Queue\Queue\obj\Debug\netcoreapp2.0\Queue.pdb

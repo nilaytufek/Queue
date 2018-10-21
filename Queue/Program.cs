@@ -20,6 +20,12 @@ namespace Queue
             Console.WriteLine("Dequeued value: " + retVal);
             //print queue again
             Console.WriteLine("myQueue: " + string.Join(" ", myQueue.GetQ()));
+
+            //search - false
+            Console.WriteLine(myQueue.Search(e1.value));
+            //search - true
+            Console.WriteLine(myQueue.Search(e2.value));
+
             Console.ReadLine();
 
         }

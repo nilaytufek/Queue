@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 
 /* @author: nilay tufek
@@ -53,6 +54,21 @@ namespace Queue
 
             first = first.NextNode;
             return deQ;
+        }
+
+        public bool Search(V val)
+        {
+            Node<V> tmp = first;
+            while (tmp != null)
+            {
+                if (0 == Comparer<V>.Default.Compare(tmp.value, val))
+                {
+                    return true;
+                }
+                tmp = tmp.NextNode;
+            }
+
+            return false;
         }
 
         public V[] GetQ()
